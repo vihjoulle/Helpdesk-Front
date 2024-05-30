@@ -5,6 +5,9 @@
  Neste projeto foi realizada a construção de uma aplicação Web Completa, com CRUD(Creste, Read, Update e Delete) e Arquitetura MVC.
  O projeto consiste no desenvolvimento de um sistema para abertura e fechamento de chamados de ordens de serviços, onde usuários específicos do sistema tem permições para gerenciar as suas ordens de serviço.
 
+### 📋 Requisitos Funcionais do Projetor:
+
+
 
  Para fazer o gerenciamento das ordens, este usuário tem que estar devidamente logado e com as permições de administrador.
 
