@@ -1,4 +1,4 @@
-<h1 align="center">HelpDesk - FrontEnd do Projeto</h1>
+<h2 align="center">♦️ HelpDesk - FrontEnd do Projeto </h2>
 
 ### 🖥️ Descrição do projeto:
  
