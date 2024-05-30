@@ -21,10 +21,14 @@
 
  ✏️ O sistema deve permitir a definição de perfis de acesso.
 
+### 🛠️ Tecnologias Utilizadas no Front-End:
 
+ 📌 Angular 12
 
- Para fazer o gerenciamento das ordens, este usuário tem que estar devidamente logado e com as permições de administrador.
+ 📌 Typescript
 
-# Tecnologias Utilizadas no Front-End
+ 📌 HTML
 
-O framework escolhido foi o Angular 12, e com os componentes do Angular Material foi realizado a construção dos componentes.
+ 📌 CSS
+
+ 📌 Componentes do Angular Material 
