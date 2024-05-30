@@ -1,4 +1,4 @@
-# Projeto HelpDesk - FrontEnd do Projeto
+<h1 align="center">Projeto HelpDesk - FrontEnd do Projeto</h1>
 
 # Descrição do projeto:
  
